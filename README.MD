@@ -2,7 +2,7 @@
 
 ** Conjunto de dados distribuído pela Data Science Academy, onde mostra as vendas de produtos, segmento, fabricante e lojas pelos estados de Belo Horizonte e Rio de Janeiro.
 
-## Tarefas para a planilha de Vendas na Região de Rio de Janeiro
+## Tarefas para a planilha de Vendas na Região de Belo Horizonte
 
 
 ** O total e média de vendas por Categoria em BH ** 
@@ -15,7 +15,7 @@
 
 ** o total, média de vendas por Cidade, Estado e Vendedor, Segmento e Categoria **
 
-## Tarefas para a planilha de Vendas na Região de Belo Horizonte e Rio de Janeiro
+## Tarefas para a planilha de Vendas na Região do Rio de Janeiro 
 
 
 ** O total e média de vendas por Categoria em RJ ** 
